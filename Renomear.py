@@ -3,7 +3,7 @@ import os #ela é uma biblioteca de comandos do sistema operacional que vai te a
 
 lugar_que_vai_ser_renomeado = 'C:\\Users\\Pasta\\Desktop\\Nova Pasta' # Variavel lugar de destino
 
-path = os.chdir (lugar_que_vai_ser_renomeado)
+path = os.chdir (lugar_que_vai_ser_renomeado) #Os.chdir método usado para alterar o diretório de trabalho atual para o caminho especificado.
 
 lugarnome = os.listdir # é usado para obter a lista de todos os arquivos e diretórios no diretório especificado.
 i = 0
