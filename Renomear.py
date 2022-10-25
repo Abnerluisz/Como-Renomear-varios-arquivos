@@ -1,7 +1,7 @@
 import os
 
 
-lugar_que_vai_ser_renomeado = 'C:\\Users\\PC Esta Fervendo\\Desktop\\Pousada\\Geral'
+lugar_que_vai_ser_renomeado = 'C:\\Users\\Pasta\\Desktop\\Nova Pasta'
 
 path = os.chdir (lugar_que_vai_ser_renomeado)
 
